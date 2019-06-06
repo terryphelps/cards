@@ -1,0 +1,31 @@
+.outside{
+  background-color: darkblue;
+  margin-left: 85px;
+  margin-right: 85px;
+  color: white;
+}
+.row{
+  text-align: center;
+}
+.card-blue {
+  background: darkblue;
+  padding: 15px;
+/*  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px; */
+  margin: 50px 50px;
+  margin-left: 100px;
+}
+.light{
+  background-color: rgb(240, 230, 230);
+}
+.card-white {
+  background: white;
+  padding: 15px;
+/*  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px; */
+  margin: 20px 50px;
+  margin-left: 100px;
+}
+.col-12{
+  font-size: 18px;
+}
